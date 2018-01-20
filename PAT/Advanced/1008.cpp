@@ -5,6 +5,7 @@ int current_floor = 0;
 int next_floor = 0;
 int second = 0;
 int up_or_down = 0;
+
 int main()
 {
   int n;
